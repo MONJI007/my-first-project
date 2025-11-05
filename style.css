@@ -806,7 +806,7 @@ font-weight: 600;
     width: 100%;
     filter: brightness(60%);
     position: absolute;
-    background-image: url(photos/subscribe.jpg);
+    background-image: url(subscribe.jpg);
     z-index: -1;
 }
 .subscribe form {
