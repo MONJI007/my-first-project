@@ -678,7 +678,7 @@ animation: disappear 3s linear forwards;
 }
 .citation figure {
     height: 45vh;
-    background: url(photos/quote.jpg) no-repeat ;
+    background: url(quote.jpg) no-repeat ;
     background-size: cover;
     color: white;
     display: flex;
