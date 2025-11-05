@@ -471,7 +471,7 @@ video {
 }
 .numbers {
     position: absolute;
-    background-image: url(photos/stats.png);
+    background-image: url(stats.png);
     top: 40%;
     height: 60%;
     width: 100%;
