@@ -9,7 +9,7 @@
     --main-color :#3dbcef;
 }
 .hero-section {
-    background-image:url("photos/landing.jpg");
+    background-image:url("images/landing.jpg");
     background-size: cover;
     height:100vh;
     background-position: center;
