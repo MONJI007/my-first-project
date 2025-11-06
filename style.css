@@ -353,7 +353,7 @@ nav{
 .image-container {
  display: grid;
  grid-template-columns:repeat(4,minmax(250px,1fr));
- max-width: 100vw;
+ max-width: 100%;
 }
 .sora img {
     display: block;
