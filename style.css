@@ -448,12 +448,13 @@ video {
     transform: translate(-50%,-50%);  
     text-align: center;
 }
-.video button {
+.weare button {
     color: white;
     background-color: black;
     font-size: 1.2rem;
     padding: 0.5rem;
     border: none;
+    cursor:pointer;
 }
 .statistics {
     position: relative;
@@ -1143,7 +1144,8 @@ footer small span {
        gap: 1rem;  
     }
   .weare button  {
-       transform: scale(0.8);  
+       font-size:1rem;  
+      padding:0.4rem 0.8rem;
     }
 }
 
